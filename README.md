@@ -1,6 +1,6 @@
 # Cat App - API
 
-**LIVE LINK:** https://fitbit-product-landing-page.netlify.app/
+**LIVE LINK:** https://cat-app-api.netlify.app/
 
 ## Features
 * Fully responsive (mobile first)
