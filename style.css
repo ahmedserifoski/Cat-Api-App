@@ -1,5 +1,6 @@
 body {
     background: rgb(218, 218, 218);
+
 }
 
 .container {
@@ -31,10 +32,9 @@ body {
 }
 
 h1 {
-    margin-left: 1em;
-    font-size: 1.1em;
-    /* position: absolute; */
-    top: 0;
+    width: 85%;
+    font-size: 1.3em;
+    text-align: center;
 }
 
 #image {
@@ -48,13 +48,14 @@ h1 {
 
 @media (min-width: 500px) {
     h1 {
+        width: 80%;
         font-size: 2rem;
         text-align: center;
     }
 
     #image {
-        width: auto; 
-        height: 70%;
+        width: 80%; 
+        height: auto;
     }
 }
 
