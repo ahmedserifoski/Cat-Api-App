@@ -59,5 +59,18 @@ h1 {
     }
 }
 
+@media (min-width: 768px) {
+    h1 {
+        width: 80%;
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    #image {
+        width: auto; 
+        height: 75%;
+    }
+}
+
 
 
